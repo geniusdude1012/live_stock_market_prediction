@@ -4,8 +4,8 @@ This project predicts live stock market trends using Machine Learning and Deep L
 
 ## Project Overview
 
--The stock market is highly dynamic and influenced by multiple factors. In this project, we:
--Collected and processed stock price data.
--Applied time series analysis and machine learning models.
--Used LSTM (Long Short-Term Memory networks) for sequence prediction.
--Built visualizations to understand trends and model performance.
+The stock market is highly dynamic and influenced by multiple factors. In this project, we:
+Collected and processed stock price data.
+Applied time series analysis and machine learning models.
+Used LSTM (Long Short-Term Memory networks) for sequence prediction.
+Built visualizations to understand trends and model performance.
