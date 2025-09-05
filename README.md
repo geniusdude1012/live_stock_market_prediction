@@ -1,6 +1,3 @@
-# live_stock_market_prediction
-1. Downloading api of stock market dataset from yfinance website.
-2. Cleaning the datase(Converting multi-index dataset into single index ).
-3. Plotting candle stick figure for dataset visualization.
-4. Desigining model using RandonForrestRegresser ml model.
-5. Calculating mean square error for effficiency of model.
+# Live Stock Market Prediction
+
+This project predicts live stock market trends using Machine Learning and Deep Learning models. It leverages historical stock data and real-time inputs to forecast future price movements and assist in decision-making.
