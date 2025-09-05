@@ -11,8 +11,9 @@ Used LSTM (Long Short-Term Memory networks) for sequence prediction.
 Built visualizations to understand trends and model performance.
 
 ## Features
-
-<ul>Fetches live stock data using APIs (yFinance / Alpha Vantage).</ul>
-<ul>Preprocesses and normalizes stock price data.</ul>
-<ul>Predicts closing prices and trends using ML/DL models.</ul>
-<ul>Visualizes predictions vs actual prices with interactive graphs.</ul>
+<ul>
+  <li>Fetches live stock data using APIs (yFinance / Alpha Vantage).</li>
+  <li>Preprocesses and normalizes stock price data.</li>
+  <li>Predicts closing prices and trends using ML/DL models.</li>
+  <li>Visualizes predictions vs actual prices with interactive graphs.</li>
+</ul>
